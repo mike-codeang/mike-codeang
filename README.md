@@ -18,9 +18,9 @@
 - Futuristic storytelling & creative tech
 
 ### 📫 How to reach me
-- TikTok: [@michail.nl](#)  
-- Instagram: [@mikeang_official](#)  
-- Discord: [https://discord.gg/bZ2726py]  
+- TikTok: [@michail.nl](https://www.tiktok.com/@michail.nl)(#)  
+- Instagram: [@mikeang_official](https://www.instagram.com/mikeang_official)(#)  
+- Discord: [Join my server](https://discord.gg/bzZ29cpv)
 
 ---
 
