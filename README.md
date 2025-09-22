@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I’m Mike (@mike-codeang)
 
-<!--
-**mike-codeang/mike-codeang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚴 Delivery by day • 💻 Coder by night • 🤖 Exploring the future with AI & Python.  
 
-Here are some ideas to get you started:
+### 🔭 What I’m working on
+- Creative AI projects (videos, avatars, storytelling)  
+- Python experiments & automation scripts  
+- Exploring futuristic themes: **Cyber Queen**, **Rotterdam 2025**, **In the Shadows**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I’m learning
+- Python basics & advanced tricks  
+- AI/ML tools and open-source frameworks  
+- Multi-platform creative workflows (Windows, Linux, Tensor.art, Apob.ai, Kling)
+
+### 👯 Let’s collaborate on
+- AI-generated art & video  
+- Small open-source Python projects  
+- Futuristic storytelling & creative tech
+
+### 📫 How to reach me
+- TikTok: [@michail.nl](#)  
+- Instagram: [@mikeang_official](#)  
+- Discord: [https://discord.gg/bZ2726py]  
+
+---
+
+⚡ *“Between deliveries and lines of code, the future is being written.”*  
