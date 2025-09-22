@@ -17,11 +17,11 @@
 - Small open-source Python projects  
 - Futuristic storytelling & creative tech
 
-### 📫 How to reach me
-- TikTok: [@michail.nl](https://www.tiktok.com/@michail.nl)(#)  
-- Instagram: [@mikeang_official](https://www.instagram.com/mikeang_official)(#)  
-- Discord: [Join my server](https://discord.gg/bzZ29cpv)
+---
+
+### 🌐 Connect with me  
+🌟 [TikTok](https://www.tiktok.com/@michail.nl) | 📸 [Instagram](https://www.instagram.com/mikeang_official) | 💬 [Discord](https://discord.gg/bzZ29cpv)
 
 ---
 
-⚡ *“Between deliveries and lines of code, the future is being written.”*  
+✨ *Made with passion and curiosity — code, AI & creativity.*
