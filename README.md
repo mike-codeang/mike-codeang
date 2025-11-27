@@ -22,7 +22,6 @@
 > _Rotterdam → Neural Pipelines._  
 > _Delivery by day. AI by night._  
 
-*(They don’t auto-rotate, αλλάζουν με κάθε scroll στο μυαλό του σωστού ανθρώπου 😄)*
 
 ---
 
@@ -121,7 +120,6 @@
 
 ## 📡 TikTok & Social Signals
 
-*(Όχι real-time API, αλλά καθαρά links / badges για να σε βρίσκουν γρήγορα.)*
 
 <p align="center">
   <a href="https://www.tiktok.com/@mike-codeang">
