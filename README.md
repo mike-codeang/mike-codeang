@@ -122,11 +122,11 @@
 
 
 <p align="center">
-  <a href="https://www.tiktok.com/@mike-codeang">
-    <img src="https://img.shields.io/badge/TikTok-@mike--codeang-000000?logo=tiktok&logoColor=white" alt="TikTok">
+  <a href="https://www.tiktok.com/@michail.nl">
+    <img src="https://img.shields.io/badge/TikTok-@michail.nl-000000?logo=tiktok&logoColor=white" alt="TikTok">
   </a>
-  <a href="https://www.instagram.com/mike-codeang">
-    <img src="https://img.shields.io/badge/Instagram-@mike--codeang-E4405F?logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://www.instagram.com/mikecodeang/?__pwa=1">
+    <img src="https://img.shields.io/badge/Instagram-@mikecodeang-E4405F?logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
 
