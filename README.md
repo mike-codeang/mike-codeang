@@ -82,10 +82,33 @@ Micro PWA experiment for dynamic value testing
 
 ---
 
-## Contact
-📸 Instagram: https://www.instagram.com/mikecodeang/?__pwa=1)
-🎵 TikTok: **@mike-codeang**  
-💬 Discord: **mikecodeang**
+## 🌐 Connect with me
+
+<p align="left">
+  <a href="https://www.instagram.com/mikecodeang/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%40mikecodeang-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@mike-codeang" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%40mike--codeang-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/mikecodeang" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-mikecodeang-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🤝 Open to collaborate on
+
+- AI-generated visuals & cinematic video (Tensor.art • WAN2.5 • Midjourney)
+- Python automations (document systems, indexing, workflows)
+- Micro-tools & open-source mini projects
+- Futuristic storytelling (STAHN Universe, Neural Grid, AI NOVA)
+- Remote digital tasks & assistant-work pipelines
+
+*If you’re building something creative with AI or automation, I’d love to connect.*
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mike-codeang&color=0a84ff&style=flat-square" alt="Counter">
