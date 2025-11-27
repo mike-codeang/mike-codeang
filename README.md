@@ -83,7 +83,7 @@ Micro PWA experiment for dynamic value testing
 ---
 
 ## Contact
-📸 Instagram: **@mike-codeang**  
+📸 Instagram: https://www.instagram.com/mikecodeang/?__pwa=1)
 🎵 TikTok: **@mike-codeang**  
 💬 Discord: **mikecodeang**
 
